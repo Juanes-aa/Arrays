@@ -1,12 +1,12 @@
 const estudiantes = [
-            "Ana Martínez", 
-            "Carlos Pérez", 
-            "Laura Gómez", 
-            "Juanes López", 
-            "Marta Díaz", 
-            "Pedro Sánchez", 
-            "Sofía Ramírez", 
-            "Andrés Felipe"
+            "Ana Cardona", 
+            "Carlos Moreno", 
+            "Laura Gomez", 
+            "Juanes Lopez", 
+            "Marta Diaz", 
+            "Pedro Sanchez", 
+            "Sofía Peña", 
+            "Andres Felipe"
         ];
 
         let tabla = document.getElementById('tabla');
